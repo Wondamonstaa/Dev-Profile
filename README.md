@@ -64,11 +64,34 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools**  
 <!--[![My Skills](https://skillicons.dev/icons?i=python,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)-->
-<div align="center">
+<!--<div align="center">
     
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,ts,postgresql,docker,kubernetes,tailwind,js,react,next,nodejs,mongodb,git,github,vscode,jest,postman,scala,django&perline=10)](#)
 
+</div>-->
+<div align="center" style="display: flex; flex-wrap: wrap; max-width: 1000px; margin: auto;">
+    <img src="https://skillicons.dev/icons?i=python" style="width: 50px; height: 50px; padding: 5px;">
+    <img src="https://skillicons.dev/icons?i=tensorflow" style="width: 50px; height: 50px; padding: 5px;">
+    <img src="https://skillicons.dev/icons?i=pytorch" style="width: 50px; height: 50px; padding: 5px;">
+    <img src="https://skillicons.dev/icons?i=ts" style="width: 50px; height: 50px; padding: 5px;">
+    <img src="https://skillicons.dev/icons?i=postgresql" style="width: 50px; height: 50px; padding: 5px;">
+    <img src="https://skillicons.dev/icons?i=docker" style="width: 50px; height: 50px; padding: 5px;">
+    <img src="https://skillicons.dev/icons?i=kubernetes" style="width: 50px; height: 50px; padding: 5px;">
+    <img src="https://skillicons.dev/icons?i=tailwind" style="width: 50px; height: 50px; padding: 5px;">
+    <img src="https://skillicons.dev/icons?i=js" style="width: 50px; height: 50px; padding: 5px;">
+    <img src="https://skillicons.dev/icons?i=react" style="width: 50px; height: 50px; padding: 5px;">
+    <img src="https://skillicons.dev/icons?i=next" style="width: 50px; height: 50px; padding: 5px;">
+    <img src="https://skillicons.dev/icons?i=nodejs" style="width: 50px; height: 50px; padding: 5px;">
+    <img src="https://skillicons.dev/icons?i=mongodb" style="width: 50px; height: 50px; padding: 5px;">
+    <img src="https://skillicons.dev/icons?i=git" style="width: 50px; height: 50px; padding: 5px;">
+    <img src="https://skillicons.dev/icons?i=github" style="width: 50px; height: 50px; padding: 5px;">
+    <img src="https://skillicons.dev/icons?i=vscode" style="width: 50px; height: 50px; padding: 5px;">
+    <img src="https://skillicons.dev/icons?i=jest" style="width: 50px; height: 50px; padding: 5px;">
+    <img src="https://skillicons.dev/icons?i=postman" style="width: 50px; height: 50px; padding: 5px;">
+    <img src="https://skillicons.dev/icons?i=scala" style="width: 50px; height: 50px; padding: 5px;">
+    <img src="https://skillicons.dev/icons?i=django" style="width: 50px; height: 50px; padding: 5px;">
 </div>
+
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> GitHub Stats 
