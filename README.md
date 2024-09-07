@@ -53,5 +53,5 @@ A **AI/ML Engineer & Web3 Blockchain Developer**  and an advocate for building *
 [![Kiryl's current streak](https://streak-stats.demolab.com/?user=Wondamonstaa&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=100&section=footer"/>
 </p>
