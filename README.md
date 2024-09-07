@@ -2,7 +2,7 @@
 
 A **AI/ML Engineer & Web3 Blockchain Developer**  and an advocate for building **responsive**, **accessible** and **inclusive** digital products. 
 - Open to project collaborations
-- You can reach me through: </a><a href="mailto:kirylbaravikou@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a><a href="https://www.linkedin.com/in/wondamonsta/">
+- You can reach me through: </a><a href="mailto:kirylbaravikou@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/wondamonsta/">
     <img  
         alt="LinkedIn" 
         title="LinkedIn" 
