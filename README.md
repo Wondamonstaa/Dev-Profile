@@ -30,28 +30,32 @@
 
 
 <div align="center">
-<a href="mailto:kirylbaravikou@gmail.com" title="Email">
-    <img 
-        alt="Email" 
-        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" 
-        height="40" 
-        align="center"
-    /></a> <a href="https://www.linkedin.com/in/wondamonsta/" title="LinkedIn">
-    <img  
-        alt="LinkedIn" 
-        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" 
-        height="40" 
-        align="center" 
-    /></a> <a href="https://www.instagram.com/wondamonsta/" title="Instagram">
-    <img 
-        alt="Instagram" 
-        src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=black" 
-        height="40" 
-        align="center" 
-    />
-</a>
-
+    <a href="mailto:kirylbaravikou@gmail.com" title="Email">
+        <img 
+            alt="Email" 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=ffffff" 
+            height="40" 
+            align="center"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/wondamonsta/" title="LinkedIn">
+        <img  
+            alt="LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=ffffff" 
+            height="40" 
+            align="center" 
+        />
+    </a>
+    <a href="https://www.instagram.com/wondamonsta/" title="Instagram">
+        <img 
+            alt="Instagram" 
+            src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=ffffff" 
+            height="40" 
+            align="center" 
+        />
+    </a>
 </div>
+
 
 
 # Recent Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> 
