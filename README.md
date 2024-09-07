@@ -35,9 +35,7 @@
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" 
         height="40" 
         align="center"
-    /></a>
-    
-</a> <a href="https://www.linkedin.com/in/wondamonsta/" title="LinkedIn">
+    /></a> <a href="https://www.linkedin.com/in/wondamonsta/" title="LinkedIn">
     <img  
         alt="LinkedIn" 
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" 
