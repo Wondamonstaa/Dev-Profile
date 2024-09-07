@@ -28,7 +28,7 @@
     />
 </a>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects
+# My Recent Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> 
 
  1. [Aram: Synthetic Code Generator ](https://github.com/ashikshafi08/nom)
  2. [Movies website](https://react-movies-lac.vercel.app/)
