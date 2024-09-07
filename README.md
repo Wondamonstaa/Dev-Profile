@@ -36,7 +36,7 @@
  4. [Synthia: Scientific Data Aggregator](https://github.com/Wondamonstaa/Synthia)
  5. [Phantom Chase: Graph Simulator](https://github.com/Wondamonstaa/PhantomChase)
  6. [Health Data Hub: Medical Data Storage](https://github.com/Wondamonstaa/HealthDataHub)
- 7. [Age Calculator](https://johnmwendwa.github.io/age-calculator/)
+ 7. [Teameights: Collaborative Devs Hub](https://github.com/Wondamonstaa/Teameights)
  8. [Expenses chart component](https://johnmwendwa.github.io/expenses-chart-component/)
  9. [Advice generator app](https://johnmwendwa.github.io/advice-generator-app/)
  10. [Huddle Landing page](https://johnmwendwa.github.io/huddle-landing-page/)
