@@ -49,9 +49,9 @@
 
 
 
- [![Kiryl's github stats](https://bad-apple-github-readme.vercel.app/api?username=Wondamonstaa&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=black&title_color=00b3ff)](#)
+ [![Kiryl's github stats](https://bad-apple-github-readme.vercel.app/api?username=Wondamonstaa&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=synthwave&title_color=00b3ff)](#)
 
- [![Kiryl's github stats](https://bad-apple-github-readme.vercel.app/api?username=Wondamonstaa&show_icons=true&count_private=true&line_height=20&icon_color=ff7e5f&title_color=ff4e50&text_color=feb47b&bg_color=000000)](#)
+
 
 
 
