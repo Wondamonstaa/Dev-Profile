@@ -27,16 +27,7 @@
         align="center" 
     />
 </a>-->
-<a href="mailto:kirylbaravikou@gmail.com" target="_blank" title="Email" style="text-decoration: none;">
-    <div style="display: flex; align-items: center; background-color: #ffffff; border-radius: 5px; border: 1px solid #d14836; padding: 8px 12px;">
-        <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r2.png" alt="Gmail Icon" style="height: 40px; margin-right: 8px;">
-        <span style="font-size: 18px; font-weight: bold; color: #d14836;">G</span>
-        <span style="font-size: 18px; font-weight: bold; color: #4285f4;">m</span>
-        <span style="font-size: 18px; font-weight: bold; color: #0f9d58;">a</span>
-        <span style="font-size: 18px; font-weight: bold; color: #f4b400;">i</span>
-        <span style="font-size: 18px; font-weight: bold; color: #db4437;">l</span>
-    </div>
-</a>
+
 
     
 <a href="mailto:kirylbaravikou@gmail.com" title="Email">
