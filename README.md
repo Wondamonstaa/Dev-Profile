@@ -38,11 +38,9 @@
  6. [Health Data Hub: Medical Data Storage](https://github.com/Wondamonstaa/HealthDataHub)
  7. [Teameights: Collaborative Devs Hub](https://github.com/Wondamonstaa/Teameights)
 
-<!--## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools**  
-[![My Skills](https://skillicons.dev/icons?i=python,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)-->
-<div align="center">
-    
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools**  
+<!--[![My Skills](https://skillicons.dev/icons?i=python,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)-->
+<div align="center">
     
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,ts,postgresql,css,tailwind,js,react,next,nodejs,mongodb,git,github,vscode,jest,styledcomponents,postman,scala,django&perline=10)](#)
 
