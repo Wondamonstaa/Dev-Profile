@@ -36,7 +36,7 @@ A **AI/ML Engineer and Web3 Blockchain Developer**  and an advocate for building
 
  [![Kiryl's github stats](https://bad-apple-github-readme.vercel.app/api?username=Wondamonstaa&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=johnmwendwa&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Wondamonstaa&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 [![Kiryl's current streak](https://streak-stats.demolab.com/?user=johnmwendwa&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
