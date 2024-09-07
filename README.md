@@ -30,12 +30,22 @@
 <div align="center">
 
 <a href="mailto:kirylbaravikou@gmail.com" title="Email">
-    <img 
+    <!--<img 
         alt="Email" 
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" 
         height="40" 
         align="center"
-    /></a> <a href="https://www.linkedin.com/in/wondamonsta/" title="LinkedIn">
+    /></a>-->
+    <a href="https://mail.google.com/" target="_blank" style="text-decoration: none;">
+    <div style="display: flex; align-items: center; background-color: #ffffff; border-radius: 5px; border: 1px solid #d14836; padding: 8px 12px;">
+        <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r2.png" alt="Gmail Icon" style="height: 40px; margin-right: 8px;">
+        <span style="font-size: 18px; font-weight: bold; color: #d14836;">G</span>
+        <span style="font-size: 18px; font-weight: bold; color: #4285f4;">m</span>
+        <span style="font-size: 18px; font-weight: bold; color: #0f9d58;">a</span>
+        <span style="font-size: 18px; font-weight: bold; color: #f4b400;">i</span>
+        <span style="font-size: 18px; font-weight: bold; color: #db4437;">l</span>
+    </div>
+</a> <a href="https://www.linkedin.com/in/wondamonsta/" title="LinkedIn">
     <img  
         alt="LinkedIn" 
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" 
