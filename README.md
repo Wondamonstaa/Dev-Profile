@@ -66,7 +66,7 @@
 <!--[![My Skills](https://skillicons.dev/icons?i=python,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)-->
 <div align="center">
     
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,tailwind,postgresql,ts,docker,kubernetes,js,react,next,nodejs,mongodb,git,github,vscode,jest,postman,scala,django&perline=10)](#)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,tailwind,postgresql,ts,docker,react,kubernetes,js,next,nodejs,mongodb,git,github,vscode,jest,postman,scala,django&perline=10)](#)
 
 </div>
 
