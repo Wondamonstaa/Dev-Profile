@@ -53,11 +53,10 @@
 
 
          
-<!--<p align="center">
+<p align="center">
      <img src="https://capsule-render.vercel.app/api?type=gradient&color=gradient&height=175&width=700&section=footer"/>
-</p>-->
+</p>
 
-https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Wondamonsta&textBg=false
 
 
 
