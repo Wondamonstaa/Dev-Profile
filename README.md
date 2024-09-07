@@ -3,7 +3,7 @@
 
 
 - AI/ML Engineer & Web3 Blockchain Developer.    
-- Healthcare Advocate.    
+- Healthcare Advocate and Longetivity Medicine Promoter.  
 - Passionate Visionary Dedicated to Crafting **Responsive**, **Accessible**, and **Purpose-Driven** Digital Solutions.  
 - Always open to project collaborations and opportunities.
 - Contact me via: </a><a href="mailto:kirylbaravikou@gmail.com" title="Email">
