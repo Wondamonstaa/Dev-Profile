@@ -4,7 +4,7 @@
 - AI/ML Engineer & Web3 Blockchain Developer.    
 - Healthcare Advocate and Longetivity Medicine Promoter.  
 - Passionate Visionary Dedicated to Crafting **Responsive**, **Accessible**, **Purpose-Driven** Digital Solutions.  
-- Always open to project collaborations and opportunities: </a><a href="mailto:kirylbaravikou@gmail.com" title="Email">
+- Always open to project collaborations and opportunities: <!--</a><a href="mailto:kirylbaravikou@gmail.com" title="Email">
     <img 
         alt="Email" 
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
@@ -25,7 +25,38 @@
         height="30" 
         align="center" 
     />
+</a>-->
+<div align="center">
+
+<a href="mailto:kirylbaravikou@gmail.com" title="Email">
+    <img 
+        alt="Email" 
+        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+        height="30" 
+        align="center"
+    />
+</a> 
+
+<a href="https://www.linkedin.com/in/wondamonsta/" title="LinkedIn">
+    <img  
+        alt="LinkedIn" 
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+        height="30" 
+        align="center" 
+    />
+</a> 
+
+<a href="https://www.instagram.com/wondamonsta/" title="Instagram">
+    <img 
+        alt="Instagram" 
+        src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" 
+        height="30" 
+        align="center" 
+    />
 </a>
+
+</div>
+
 
 # Recent Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> 
 
