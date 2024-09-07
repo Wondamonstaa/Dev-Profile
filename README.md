@@ -32,19 +32,19 @@
     <img 
         alt="Email" 
         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-        height="30" 
+        height="40" 
         align="center"
     /></a> <a href="https://www.linkedin.com/in/wondamonsta/" title="LinkedIn">
     <img  
         alt="LinkedIn" 
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-        height="30" 
+        height="40" 
         align="center" 
     /></a> <a href="https://www.instagram.com/wondamonsta/" title="Instagram">
     <img 
         alt="Instagram" 
         src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" 
-        height="30" 
+        height="40" 
         align="center" 
     />
 </a>
