@@ -57,6 +57,5 @@
      <img src="https://capsule-render.vercel.app/api?type=gradient&color=gradient&height=175&width=700&section=footer"/>
 </p>
 
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Venom&section=footer"/>
-</p>
+![Venom Capsule](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Input%20text&textBg=false)
+
