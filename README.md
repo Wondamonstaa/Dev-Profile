@@ -3,8 +3,6 @@
 
 <div>
    <img height="20" src="https://cdn.simpleicons.org/github?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/simpleicons?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/awesomelists?viewbox=auto" />
 </div>
 
 
