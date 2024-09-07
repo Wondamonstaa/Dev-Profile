@@ -47,7 +47,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Wondamonstaa&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
  
- [![Kiryl's github stats](https://bad-apple-github-readme.vercel.app/api?username=Wondamonstaa&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+[![Kiryl's github stats](https://img.shields.io/badge/dynamic/json?color=linear-gradient(to right, #ff7e5f, #feb47b)&label=Github%20Stats&query=%24.stars&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWondamonstaa&style=for-the-badge)](https://github.com/Wondamonstaa)
+
 
 [![Kiryl's current streak](https://streak-stats.demolab.com/?user=Wondamonstaa&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
