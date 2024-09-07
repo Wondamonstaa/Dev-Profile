@@ -3,7 +3,8 @@
 
 **AI/ML Engineer & Web3 Blockchain Developer**.    
 **Healthcare Advocate**.    
-**Passionate Visionary Dedicated to Crafting **Responsive**, **Accessible**, and **Purpose-Driven** Digital Solutions**.    
+**Passionate Visionary Dedicated to Crafting **Responsive**, **Accessible**, and **Purpose-Driven** Digital Solutions**.  
+  
 - Open to project collaborations
 - Contact me via: </a><a href="mailto:kirylbaravikou@gmail.com" title="Email">
     <img 
