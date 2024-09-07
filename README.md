@@ -32,7 +32,7 @@
 
  1. [Aram: Synthetic Code Generator ](https://github.com/ashikshafi08/nom)
  2. [Zangief: Text Translation Subnet](https://github.com/Wondamonstaa/zangief-1)
- 3. [Data Universe](https://github.com/Wondamonstaa/Data-Universe)
+ 3. [Data Universe: Twitter Data Collection](https://github.com/Wondamonstaa/Data-Universe)
  4. [Synthia: Synthetic Data Generator](https://github.com/Wondamonstaa/Synthia)
  5. [Phantom Chase: Graph Simulator](https://github.com/Wondamonstaa/PhantomChase)
  6. [Health Data Hub: Medical Data Storage](https://github.com/Wondamonstaa/HealthDataHub)
