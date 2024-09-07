@@ -36,7 +36,7 @@ Passionate Visionary Dedicated to Crafting **Responsive**, **Accessible**, and *
 
 [- Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>]::
  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
+##<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 
  1. [Aram: Synthetic Code Generator ](https://github.com/ashikshafi08/nom)
  2. [Movies website](https://react-movies-lac.vercel.app/)
