@@ -28,6 +28,17 @@
     />
 </a>-->
 <div align="center">
+    <a href="mailto:kirylbaravikou@gmail.com" title="Email" target="_blank" style="text-decoration: none;">
+    <svg width="200" height="50" xmlns="http://www.w3.org/2000/svg">
+        <rect width="200" height="50" rx="10" fill="#ffffff" stroke="#d14836" stroke-width="2"/>
+        <image href="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r2.png" x="10" y="5" height="40" width="40"/>
+        <text x="60" y="30" font-size="24" font-weight="bold" fill="#d14836">G</text>
+        <text x="80" y="30" font-size="24" font-weight="bold" fill="#4285f4">m</text>
+        <text x="100" y="30" font-size="24" font-weight="bold" fill="#0f9d58">a</text>
+        <text x="120" y="30" font-size="24" font-weight="bold" fill="#f4b400">i</text>
+        <text x="140" y="30" font-size="24" font-weight="bold" fill="#db4437">l</text>
+    </svg>
+</a>
     
 <a href="mailto:kirylbaravikou@gmail.com" title="Email">
     <img 
