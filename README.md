@@ -38,9 +38,6 @@
  5. [Phantom Chase: Graph Simulator](https://github.com/Wondamonstaa/PhantomChase)
  6. [Health Data Hub: Medical Data Storage](https://github.com/Wondamonstaa/HealthDataHub)
  7. [Teameights: Collaborative Devs Hub](https://github.com/Wondamonstaa/Teameights)
- 8. [Expenses chart component](https://johnmwendwa.github.io/expenses-chart-component/)
- 9. [Advice generator app](https://johnmwendwa.github.io/advice-generator-app/)
- 10. [Huddle Landing page](https://johnmwendwa.github.io/huddle-landing-page/)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools**  
 [![My Skills](https://skillicons.dev/icons?i=python,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
