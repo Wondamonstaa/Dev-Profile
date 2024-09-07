@@ -1,7 +1,7 @@
 # Welcome to the House of Coding
 # I'm Kiryl  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-**AI/ML Engineer & Web3 Blockchain Developer**.    
+*AI/ML Engineer & Web3 Blockchain Developer**.    
 **Healthcare Advocate**.    
 **Passionate Visionary Dedicated to Crafting **Responsive**, **Accessible**, and **Purpose-Driven** Digital Solutions**.  
   
