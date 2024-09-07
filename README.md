@@ -35,18 +35,14 @@
         height="30" 
         align="center"
     />
-</a> 
-
-<a href="https://www.linkedin.com/in/wondamonsta/" title="LinkedIn">
+</a> <a href="https://www.linkedin.com/in/wondamonsta/" title="LinkedIn">
     <img  
         alt="LinkedIn" 
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
         height="30" 
         align="center" 
     />
-</a> 
-
-<a href="https://www.instagram.com/wondamonsta/" title="Instagram">
+</a> <a href="https://www.instagram.com/wondamonsta/" title="Instagram">
     <img 
         alt="Instagram" 
         src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" 
