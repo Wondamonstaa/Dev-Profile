@@ -1,10 +1,8 @@
 # Welcome to My Dev Universe  
 # I'm Dr. Kiryl  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="32" height="32">
-  <title>GitHub</title>
-  <path d="M12 2L2 22h20L12 2z" fill="#808080"/>
-</svg>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="32" height="32" alt="GitHub Logo"/>
+
 
 
 
