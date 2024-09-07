@@ -48,7 +48,7 @@
 
  [![Kiryl's github stats](https://bad-apple-github-readme.vercel.app/api?username=Wondamonstaa&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=radical&title_color=fe428e)](#)
 
-[![Kiryl's current streak](https://streak-stats.demolab.com/?user=Wondamonstaa&count_private=true&theme=radical&title_color=fe428e)](#)
+ [![Kiryl's current streak](https://streak-stats.demolab.com/?user=Wondamonstaa&count_private=true&theme=radical&title_color=fe428e)](#)
 
 
 [![Venom Capsule](https://capsule-render.vercel.app/api?type=venom&height=500&color=gradient&text=Wondamonsta&textBg=false)](#)
