@@ -27,18 +27,17 @@
         align="center" 
     />
 </a>-->
-<div align="center">
-    <a href="mailto:kirylbaravikou@gmail.com" title="Email" target="_blank" style="text-decoration: none;">
-    <svg width="200" height="50" xmlns="http://www.w3.org/2000/svg">
-        <rect width="200" height="50" rx="10" fill="#ffffff" stroke="#d14836" stroke-width="2"/>
-        <image href="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r2.png" x="10" y="5" height="40" width="40"/>
-        <text x="60" y="30" font-size="24" font-weight="bold" fill="#d14836">G</text>
-        <text x="80" y="30" font-size="24" font-weight="bold" fill="#4285f4">m</text>
-        <text x="100" y="30" font-size="24" font-weight="bold" fill="#0f9d58">a</text>
-        <text x="120" y="30" font-size="24" font-weight="bold" fill="#f4b400">i</text>
-        <text x="140" y="30" font-size="24" font-weight="bold" fill="#db4437">l</text>
-    </svg>
+<a href="https://mail.google.com/" target="_blank" style="text-decoration: none;">
+    <div style="display: flex; align-items: center; background-color: #ffffff; border-radius: 5px; border: 1px solid #d14836; padding: 8px 12px;">
+        <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r2.png" alt="Gmail Icon" style="height: 40px; margin-right: 8px;">
+        <span style="font-size: 18px; font-weight: bold; color: #d14836;">G</span>
+        <span style="font-size: 18px; font-weight: bold; color: #4285f4;">m</span>
+        <span style="font-size: 18px; font-weight: bold; color: #0f9d58;">a</span>
+        <span style="font-size: 18px; font-weight: bold; color: #f4b400;">i</span>
+        <span style="font-size: 18px; font-weight: bold; color: #db4437;">l</span>
+    </div>
 </a>
+
     
 <a href="mailto:kirylbaravikou@gmail.com" title="Email">
     <img 
