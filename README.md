@@ -9,8 +9,7 @@ A **AI/ML Engineer & Web3 Blockchain Developer**  and an advocate for building *
         src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
         height="30" 
         align="center" 
-    />
-</a><a href="https://www.instagram.com/wondamonsta/">
+    /></a><a href="https://www.instagram.com/wondamonsta/">
     <img 
         alt="Instagram" 
         title="Instagram" 
