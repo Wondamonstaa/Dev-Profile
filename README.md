@@ -32,8 +32,8 @@
 
  1. [Aram: Synthetic Code Generator ](https://github.com/ashikshafi08/nom)
  2. [Zangief: Text Translation Subnet](https://github.com/Wondamonstaa/zangief-1)
- 3. [Photo search gallery](https://next-gallery-johnmwendwa.vercel.app/)
- 4. [Time tracking dashboard](https://johnmwendwa.github.io/time-tracking-dashboard/)
+ 3. [Data Universe](https://github.com/Wondamonstaa/Data-Universe)
+ 4. [Synthia: Synthetic Data Generator](https://github.com/Wondamonstaa/Synthia)
  5. [Blog for all developers](https://developers-home.vercel.app/)
  6. [Multi-step form](https://johnmwendwa.github.io/advanced-multi-step-form/)
  7. [Age Calculator](https://johnmwendwa.github.io/age-calculator/)
