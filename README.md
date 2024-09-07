@@ -10,7 +10,7 @@ A **AI/ML Engineer & Web3 Blockchain Developer**  and an advocate for building *
         height="30" 
         align="center" 
     />
-</a>  <a href="https://www.instagram.com/wondamonsta/">
+</a><a href="https://www.instagram.com/wondamonsta/">
     <img 
         alt="Instagram" 
         title="Instagram" 
