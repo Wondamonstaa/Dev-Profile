@@ -28,7 +28,7 @@
     />
 </a>
 
-# My Recent Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> 
+# Recent Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> 
 
  1. [Aram: Synthetic Code Generator ](https://github.com/ashikshafi08/nom)
  2. [Zangief: Text Translation Subnet](https://github.com/Wondamonstaa/zangief-1)
