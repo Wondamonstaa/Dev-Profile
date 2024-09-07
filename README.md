@@ -6,11 +6,12 @@ A **AI/ML Engineer & Web3 Blockchain Developer**  and an advocate for building *
     <img 
         alt="Instagram" 
         title="Instagram" 
-        src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" 
+        src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=linear-gradient(to right, #F58529, #DD2A7B, #8134AF, #515BD4)&logoColor=white&labelColor=&style=for-the-badge" 
         height="30" 
         align="center" 
     />
 </a>
+
 
 
 - **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
