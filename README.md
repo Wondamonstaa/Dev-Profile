@@ -31,7 +31,7 @@
 # My Recent Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> 
 
  1. [Aram: Synthetic Code Generator ](https://github.com/ashikshafi08/nom)
- 2. [Movies website](https://react-movies-lac.vercel.app/)
+ 2. [Zangief: Text Translation Subnet](https://github.com/Wondamonstaa/zangief-1)
  3. [Photo search gallery](https://next-gallery-johnmwendwa.vercel.app/)
  4. [Time tracking dashboard](https://johnmwendwa.github.io/time-tracking-dashboard/)
  5. [Blog for all developers](https://developers-home.vercel.app/)
@@ -50,7 +50,7 @@
  18. [Social profile card](https://johnmwendwa.github.io/social-profile-card/)
  19. [Four card feature section](https://johnmwendwa.github.io/four-card-feature-section)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools**  
 [![My Skills](https://skillicons.dev/icons?i=python,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
