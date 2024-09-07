@@ -53,9 +53,11 @@
 
 
          
-<p align="center">
+<!--<p align="center">
      <img src="https://capsule-render.vercel.app/api?type=gradient&color=gradient&height=175&section=footer"/>
-</p>
+</p>-->
+
+![Venom Capsule](https://capsule-render.vercel.app/api?type=venom&height=400&color=gradient&textBg=false)
 
 
 
