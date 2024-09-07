@@ -55,5 +55,5 @@ A **AI/ML Engineer & Web3 Blockchain Developer**  and an advocate for building *
 
          
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=175&width=300&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=175&width=700&section=footer"/>
 </p>
