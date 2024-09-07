@@ -31,7 +31,7 @@
 <a href="mailto:kirylbaravikou@gmail.com" title="Email">
     <img 
         alt="Email" 
-        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" 
         height="40" 
         align="center"
     /></a> <a href="https://www.linkedin.com/in/wondamonsta/" title="LinkedIn">
