@@ -49,7 +49,7 @@
 
 
 
- [![Kiryl's github stats](https://bad-apple-github-readme.vercel.app/api?username=Wondamonstaa&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=synthwave&title_color=00b3ff)](#)
+ [![Kiryl's github stats](https://bad-apple-github-readme.vercel.app/api?username=Wondamonstaa&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=cobalt&title_color=00b3ff)](#)
 
 
 
