@@ -64,7 +64,7 @@
  7. [Teameights: Collaborative Devs Hub](https://github.com/Wondamonstaa/Teameights)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools**  
-<!--[![My Skills](https://skillicons.dev/icons?i=python,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)-->
+
 <div align="center">
     
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,scala,postman,tailwind,postgresql,ts,docker,react,kubernetes,js,next,nodejs,mongodb,git,github,jest,django,c&perline=10)](#)
