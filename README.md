@@ -1,8 +1,5 @@
 # Welcome to My Dev Universe   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="32" height="32" alt="GitHub Logo"/>
- <a href="https://github.com/OracleBrain">
-    <img src="contributions.svg" />
-  </a>
-
+ 
 # I'm Kiryl  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 
@@ -67,6 +64,10 @@
  6. [Health Data Hub: Medical Data Storage](https://github.com/Wondamonstaa/HealthDataHub)
  7. [Teameights: Collaborative Devs Hub](https://github.com/Wondamonstaa/Teameights)
 
+<a href="https://github.com/OracleBrain">
+    <img src="contributions.svg" />
+  </a>
+  
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools**  
 
 <div align="center">
