@@ -29,7 +29,7 @@
 </a>-->
 
 
-<div align="center">
+<div align="center"> 
     <a href="mailto:kirylbaravikou@gmail.com" title="Email">
         <img 
             alt="Email" 
